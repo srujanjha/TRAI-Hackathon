@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="4dp"
+    android:padding="8dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <!-- Title -->
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_margin="5dp"
+            android:textStyle="bold" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+        <Button
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_weight="3"
+            android:layout_margin="5dp"
+            android:id="@+id/btnYes"
+            android:text="YES"
+            android:background="@android:color/holo_green_dark"
+            android:elevation="7dp"
+            android:textColor="@android:color/white"
+            style="?android:attr/borderlessButtonStyle" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_weight="3"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnNo"
+            android:layout_margin="5dp"
+            android:text="NO"
+            android:background="@android:color/holo_red_dark"
+            android:elevation="7dp"
+            android:textColor="@android:color/white"
+            style="?android:attr/borderlessButtonStyle" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_weight="2"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnDntKnow"
+            android:layout_margin="5dp"
+            android:text="Don't Know"
+            android:background="@android:color/holo_blue_light"
+            android:elevation="7dp"
+            android:textColor="@android:color/white"
+            style="?android:attr/borderlessButtonStyle" />
+        </LinearLayout>
+    </LinearLayout>
+</android.support.v7.widget.CardView>

@@ -1,0 +1,60 @@
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\TRAI-Surveys.exe.config
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\TRAI-Surveys.csproj.App.config
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\TRAI-Surveys.csprojResolveAssemblyReference.cache
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\MainWindow.g.cs
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\NewSurvey.g.cs
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\App.g.cs
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\TRAI-Surveys_MarkupCompile.cache
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\TRAI-Surveys_MarkupCompile.lref
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\TRAI-Surveys.exe
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\TRAI-Surveys.pdb
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\Newtonsoft.Json.dll
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\Newtonsoft.Json.xml
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\System.Net.Http.Extensions.xml
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\System.Net.Http.Primitives.xml
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\MainWindow.baml
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\NewSurvey.baml
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\TRAI-Surveys.g.resources
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\TRAI_Surveys.Graph.resources
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\TRAI_Surveys.Properties.Resources.resources
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\TRAI-Surveys.csproj.GenerateResource.Cache
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\TRAI-Surveys.exe
+c:\users\srjha\documents\visual studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\TRAI-Surveys.pdb
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\TRAI-Surveys.exe.config
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\TRAI-Surveys.exe
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\TRAI-Surveys.pdb
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\TRAI-Surveys.exe
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\TRAI-Surveys.pdb
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\TRAI-Surveys.csproj.App.config
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\TRAI-Surveys.csprojResolveAssemblyReference.cache
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\MainWindow.g.cs
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\NewSurvey.g.cs
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\App.g.cs
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\TRAI-Surveys_MarkupCompile.cache
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\TRAI-Surveys_MarkupCompile.lref
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\MainWindow.baml
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\NewSurvey.baml
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\TRAI-Surveys.g.resources
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\TRAI_Surveys.Graph.resources
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\TRAI_Surveys.Properties.Resources.resources
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\TRAI-Surveys.csproj.GenerateResource.Cache
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\TRAI-Surveys.exe.manifest
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\TRAI-Surveys.application
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\TRAI-Surveys.exe.manifest
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\TRAI-Surveys.application

@@ -3,19 +3,14 @@ package com.codetroopers.trai.Receivers;
 /**
  * Created by Srujan Jha on 7/8/2016.
  */
+
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
-import android.content.SharedPreferences;
-import android.database.Cursor;
-import android.net.Uri;
 import android.os.Bundle;
-import android.preference.PreferenceManager;
-import android.provider.ContactsContract.PhoneLookup;
 import android.telephony.PhoneStateListener;
 import android.telephony.TelephonyManager;
 import android.util.Log;
-import android.widget.Toast;
 
 import java.io.File;
 import java.io.FileWriter;
@@ -47,7 +42,6 @@ public class PhoneStateBroadcastReceiver extends BroadcastReceiver {
     public class CustomPhoneStateListener  extends PhoneStateListener {
 
         private static final String TAG = "CustomPhone:";
-
         @Override
         public void onCallStateChanged(int state, String incomingNumber){
 

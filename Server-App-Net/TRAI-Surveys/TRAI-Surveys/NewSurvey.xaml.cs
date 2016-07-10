@@ -30,7 +30,7 @@ namespace TRAI_Surveys
         private async void button_Click(object sender, RoutedEventArgs e)
         {
             button.IsEnabled = false;
-            Questions item = new Questions { Question = textBox.Text, Option1 = text1.Text, Option2 = text2.Text, Option3 = text3.Text,Done=false };
+            Questions item = new Questions { Question = textBox.Text, Option1 = text1.Text, Option2 = text2.Text, Option3 = text3.Text,Done=false,provider=((ComboBoxItem)cmb.SelectedItem).Content.ToString() };
             await MobileService.GetTable<Questions>().InsertAsync(item);
             this.Close();
         }

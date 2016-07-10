@@ -100,12 +100,14 @@ public class SurveyActivity extends MainActivity {
                                 Questions q=new Questions();
                                 todos[i] = jsonArray.getJSONObject(i);
                                 //if(todos[i].get("done").toString().equals("false")){
+                                System.out.println(todos[i].get("provider").toString());
+                                if(todos[i].get("provider").toString().equals("!dea") || todos[i].get("provider").toString().equals("All")||todos[i].get("provider").toString().equals("null")){
                                 q.Id=todos[i].get("id").toString();
                                 q.Question = todos[i].get("question").toString();
                                 q.Option1=todos[i].get("option1").toString();
                                 q.Option2=todos[i].get("option2").toString();
                                 q.Option3=todos[i].get("option3").toString();
-                                questions.add(q);//}
+                                questions.add(q);}
                             }
                             new Handler(Looper.getMainLooper()).post(new Runnable() {
                                 @Override

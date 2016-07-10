@@ -25,7 +25,7 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationRevision>2</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
@@ -114,11 +114,18 @@
     <Compile Include="Graph.Designer.cs">
       <DependentUpon>Graph.cs</DependentUpon>
     </Compile>
+    <Compile Include="HomeWindow.xaml.cs">
+      <DependentUpon>HomeWindow.xaml</DependentUpon>
+    </Compile>
     <Compile Include="NewSurvey.xaml.cs">
       <DependentUpon>NewSurvey.xaml</DependentUpon>
     </Compile>
     <Compile Include="Questions.cs" />
     <Compile Include="Response.cs" />
+    <Page Include="HomeWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>

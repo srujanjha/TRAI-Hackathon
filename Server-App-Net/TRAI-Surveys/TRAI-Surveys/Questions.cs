@@ -15,5 +15,6 @@ namespace TRAI_Surveys
         public string Option2 { get; set; }
         public string Option3 { get; set; }
         public bool Done { get; set; }
+        public string provider { get; set; }
     }
 }

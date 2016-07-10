@@ -58,3 +58,5 @@ C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surv
 C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\bin\Debug\TRAI-Surveys.application
 C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\TRAI-Surveys.exe.manifest
 C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\TRAI-Surveys.application
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\HomeWindow.g.cs
+C:\Users\Srujan Jha\Documents\Visual Studio 2015\Projects\TRAI-Surveys\TRAI-Surveys\obj\Debug\HomeWindow.baml

@@ -14,6 +14,8 @@
             </StackPanel>
             <TextBlock TextWrapping="Wrap" Text="Options: " Margin="10" Width="60" VerticalAlignment="Center" HorizontalAlignment="Left" FontWeight="Bold"/>
             <StackPanel Orientation="Horizontal">
+                <StackPanel Orientation="Vertical">
+            <StackPanel Orientation="Horizontal">
                 <TextBlock TextWrapping="Wrap" Text="Option 1: " Width="60" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold"/>
                 <TextBox x:Name="text1" Text="YES" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" AutomationProperties.HelpText="Yes"/>
             </StackPanel>
@@ -21,9 +23,20 @@
                 <TextBlock TextWrapping="Wrap" Text="Option 2: " Width="60" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold"/>
                 <TextBox x:Name="text2" Text="NO" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" AutomationProperties.HelpText="Yes"/>
             </StackPanel>
-            <StackPanel Orientation="Horizontal">
-                <TextBlock TextWrapping="Wrap" Text="Option 3: " Width="60" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold"/>
-                <TextBox x:Name="text3" Text="Don't Know" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" AutomationProperties.HelpText="Yes"/>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock TextWrapping="Wrap" Text="Option 3: " Width="60" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold"/>
+                    <TextBox x:Name="text3" Text="Don't Know" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" AutomationProperties.HelpText="Yes"/>
+                </StackPanel>
+                </StackPanel>
+                <StackPanel Orientation="Vertical">
+                    <ComboBox Name="cmb" Width="100" Margin="10" >
+                        <ComboBoxItem Content="All"/>
+                        <ComboBoxItem Content="!dea"/>
+                        <ComboBoxItem Content="BSNL"/>
+                        <ComboBoxItem Content="Vodafone"/>
+                        <ComboBoxItem Content="Reliance"/>
+                    </ComboBox>
+                </StackPanel>
             </StackPanel>
             <Button x:Name="button" Content="Submit" Margin="10" Click="button_Click"/>
 
